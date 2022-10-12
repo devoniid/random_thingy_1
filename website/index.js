@@ -1,5 +1,7 @@
-translate_file()
-const questions = [
+import js2py
+
+eval_res, tempfile = js2py.run_file("hey.js")
+tempfile.wish("const questions = [
     {
         question: "How many days makes a week ?",
         optionA: "10 days",
@@ -387,4 +389,4 @@ function closeScoreModal() {
 //function to close warning modal
 function closeOptionModal() {
     document.getElementById('option-modal').style.display = "none"
-}
+}")
