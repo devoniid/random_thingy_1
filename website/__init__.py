@@ -1,9 +1,7 @@
 from flask import Flask
+
 def create_app():
     app = Flask(__name__)
-    app.config['SECRET_KEY'] = 'the secret key is this'
-    from .views import views
-
-    app.register_blueprint(views, url_prefix='/')
+    app.config['SECRET_KEY'] = 'hello_world'
 
     return app

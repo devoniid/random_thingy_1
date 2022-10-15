@@ -32,7 +32,7 @@ main{
 .game-quiz-container{
     width: 40rem;
     height: 30rem;
-    background-color: lightgray;
+    background-color: light-gray;
     display: flex;
     flex-direction: column;
     align-items: center;
@@ -58,7 +58,7 @@ main{
     display: flex;
     align-items: center;
     justify-content: center;
-    border: 2px solid darkgray;
+    border: 2px solid dark-gray;
     border-radius: 25px;
 }
 
@@ -80,7 +80,7 @@ main{
 .game-options-container span{
     width: 45%;
     height: 3rem;
-    border: 2px solid darkgray;
+    border: 2px solid dark-gray;
     border-radius: 20px;
     overflow: hidden;
 }
@@ -110,7 +110,7 @@ input[type="radio"] {
 
 
 input[type=radio]:checked ~ .option {
-    background: paleturquoise;
+    background: pale-turquoise;
 }
 
 .next-button-container{
@@ -166,7 +166,7 @@ input[type=radio]:checked ~ .option {
 .modal-content-container h1{
     font-size: 1.3rem;
     height: 3rem;
-    color: lightgray;
+    color: light-gray;
     text-align: center;
 }
 
