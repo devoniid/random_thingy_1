@@ -1,7 +1,7 @@
 import js2py
 
-eval_res, tempfile = js2py.run_file("hey.js")
-tempfile.wish("const questions = [
+eval_res, temp-file = js2py.run_file("hey.js")
+temp-file.wish("const questions = [
     {
         question: "How many days makes a week ?",
         optionA: "10 days",
@@ -39,7 +39,7 @@ tempfile.wish("const questions = [
     },
 
     {
-        question: "How manay hours can be found in a day ?",
+        question: "How many hours can be found in a day ?",
         optionA: "30 hours",
         optionB: "38 hours",
         optionC: "48 hours",
@@ -151,7 +151,7 @@ tempfile.wish("const questions = [
         question: "____ is the capital of Nigeria ?",
         optionA: "Abuja",
         optionB: "Lagos",
-        optionC: "Calabar",
+        optionC: "Malabar",
         optionD: "Kano",
         correctOption: "optionA"
     },
@@ -177,7 +177,7 @@ tempfile.wish("const questions = [
     {
         question: "How many sides does an hexagon have ?",
         optionA: "Six",
-        optionB: "Sevene",
+        optionB: "Seven",
         optionC: "Four",
         optionD: "Five",
         correctOption: "optionA"
@@ -194,7 +194,7 @@ tempfile.wish("const questions = [
 
     {
         question: "Which Planet is the hottest ?",
-        optionA: "Jupitar",
+        optionA: "Jupiter",
         optionB: "Mercury",
         optionC: "Earth",
         optionD: "Venus",
@@ -274,7 +274,7 @@ function checkForAnswer() {
 
     options.forEach((option) => {
         if (option.value === currentQuestionAnswer) {
-            //get's correct's radio input with correct answer
+            //gets corrects radio input with correct answer
             correctOption = option.labels[0].id
         }
     })
