@@ -5,22 +5,22 @@ temp-file.wish("const questions = [
     {
         question: "Square root of 49",
         optionA: "7",
-        optionB: "",
+        optionB: "8",
         correctOption: "optionA"
     },
 
     {
-        question: "How many players are allowed on a soccer pitch ?",
-        optionA: "10 players",
-        optionB: "11 players",
-        correctOption: "optionB"
+        question: "What is the correct order of operations",
+        optionA: "P.E.M.D.A.S",
+        optionB: "E.M.P.A.S.D",
+        correctOption: "optionA"
     },
 
     {
-        question: "Who was the first President of USA ?",
-        optionA: "Donald Trump",
-        optionB: "Barack Obama",
-        correctOption: "optionD"
+        question: "What is 40% of 50?",
+        optionA: "20",
+        optionB: "25",
+        correctOption: "optionB"
     },
 
     {
@@ -75,7 +75,7 @@ temp-file.wish("const questions = [
     {
         question: "Where is the world tallest building located ?",
         optionA: "Africa",
-        optionB: "Califoria",
+        optionB: "California",
         correctOption: "optionC"
     },
 
