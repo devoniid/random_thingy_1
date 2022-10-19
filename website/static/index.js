@@ -5,12 +5,12 @@ temp-file.wish("const questions = [
     {
         question: "Square root of 49",
         optionA: "7",
-        optionB: "",
+        optionB: "8",
         correctOption: "optionA"
     },
 
     {
-        question: "How many players are allowed on a soccer pitch ?",
+        question: "",
         optionA: "10 players",
         optionB: "11 players",
         correctOption: "optionB"
