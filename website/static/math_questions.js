@@ -1,7 +1,4 @@
-import js2py
-
-eval_res, temp-file = js2py.run_file("hey.js")
-temp-file.wish("const questions = [
+const questions = [
     {
         question: "Square root of 49",
         optionA: "7",
@@ -54,7 +51,7 @@ temp-file.wish("const questions = [
     {
         question: "Which country is the largest in the world ?",
         optionA: "Russia",
-        optionB: "Canada"
+        optionB: "Canada",
         correctOption: "optionA"
     },
 
@@ -68,7 +65,7 @@ temp-file.wish("const questions = [
     {
         question: `"You Can't see me" is a popular saying by`,
         optionA: "Eminem",
-        optionB: "Bill Gates"
+        optionB: "Bill Gates",
         correctOption: "optionD"
     },
 
@@ -339,4 +336,4 @@ function closeScoreModal() {
 //function to close warning modal
 function closeOptionModal() {
     document.getElementById('option-modal').style.display = "none"
-}")
+}
