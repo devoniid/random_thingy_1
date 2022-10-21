@@ -227,7 +227,7 @@ function checkForAnswer() {
     })
 
     //checking to make sure a radio input has been checked or an option being chosen
-    if (options[0].checked === false && options[1].checked === false && options[2].checked === false && options[3].checked == false) {
+    if (options[0].checked === false && options[1].checked === false) {
         document.getElementById('option-modal').style.display = "flex"
     }
 
