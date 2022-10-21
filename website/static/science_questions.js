@@ -24,14 +24,14 @@ const questions = [
         question: "30 days has ______ ?",
         optionA: "January",
         optionB: "December",
-        correctOption: "optionC"
+        correctOption: "optionB"
     },
 
     {
         question: "How many hours can be found in a day ?",
         optionA: "30 hours",
         optionB: "38 hours",
-        correctOption: "optionD"
+        correctOption: "optionA"
     },
 
     {
@@ -45,7 +45,7 @@ const questions = [
         question: "_____ is the hottest Continent on Earth ?",
         optionA: "Oceania",
         optionB: "Antarctica",
-        correctOption: "optionC"
+        correctOption: "optionB"
     },
 
     {
@@ -59,21 +59,21 @@ const questions = [
         question: "Which of these numbers is an odd number ?",
         optionA: "Ten",
         optionB: "Twelve",
-        correctOption: "optionD"
+        correctOption: "optionA"
     },
 
     {
-        question: `"You Can't see me" is a popular saying by`,
+        question: "You Can't see me is a popular saying by",
         optionA: "Eminem",
         optionB: "Bill Gates",
-        correctOption: "optionD"
+        correctOption: "optionA"
     },
 
     {
         question: "Where is the world tallest building located ?",
         optionA: "Africa",
         optionB: "California",
-        correctOption: "optionC"
+        correctOption: "optionB"
     },
 
     {
@@ -95,7 +95,7 @@ const questions = [
         question: "Which national team won the football World cup in 2018 ?",
         optionA: "England",
         optionB: "Brazil",
-        correctOption: "optionD"
+        correctOption: "optionA"
     },
 
     {
@@ -109,7 +109,7 @@ const questions = [
         question: "How man states does Nigeria have ?",
         optionA: "24",
         optionB: "30",
-        correctOption: "optionC"
+        correctOption: "optionB"
     },
 
     {
@@ -123,14 +123,14 @@ const questions = [
         question: "Los Angeles is also known as ?",
         optionA: "Angels City",
         optionB: "Shining city",
-        correctOption: "optionC"
+        correctOption: "optionA"
     },
 
     {
         question: "What is the capital of Germany ?",
         optionA: "Georgia",
         optionB: "Missouri",
-        correctOption: "optionD"
+        correctOption: "optionB"
     },
 
     {
@@ -144,7 +144,7 @@ const questions = [
         question: "How many planets are currently in the solar system ?",
         optionA: "Eleven",
         optionB: "Seven",
-        correctOption: "optionD"
+        correctOption: "optionA"
     },
 
     {
@@ -165,14 +165,14 @@ const questions = [
         question: "How many hearts does an Octopus have ?",
         optionA: "One",
         optionB: "Two",
-        correctOption: "optionC"
+        correctOption: "optionB"
     },
 
     {
         question: "How many teeth does an adult human have ?",
         optionA: "28",
         optionB: "30",
-        correctOption: "optionC"
+        correctOption: "optionA"
     }
 
 ]
@@ -324,6 +324,7 @@ function handleEndGame() {
 
 //closes score modal, resets game and reshuffles questions
 function closeScoreModal() {
+    window.location.href = "/"
     questionNumber = 1
     playerScore = 0
     wrongAttempt = 0
@@ -331,9 +332,11 @@ function closeScoreModal() {
     shuffledQuestions = []
     NextQuestion(indexNumber)
     document.getElementById('score-modal').style.display = "none"
+
 }
 
 //function to close warning modal
 function closeOptionModal() {
     document.getElementById('option-modal').style.display = "none"
+
 }
