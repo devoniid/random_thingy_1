@@ -1,8 +1,8 @@
 const questions = [
     {
-        question: "Square root of 49",
-        optionA: "7",
-        optionB: "8",
+        question: "SWhich regions are included in the world map from 1570 but are not shown on the world map from 1467?",
+        optionA: "Southern Africa and the Americas",
+        optionB: "North Africa and the Middle East",
         correctOption: "optionA"
     },
 
