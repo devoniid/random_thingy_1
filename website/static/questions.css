@@ -110,7 +110,7 @@ input[type="radio"] {
 
 
 input[type=radio]:checked ~ .option {
-    background: pale-turquoise;
+    background: #c2d6d6;
 }
 
 .next-button-container{
