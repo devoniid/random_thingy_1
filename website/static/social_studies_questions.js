@@ -1,79 +1,79 @@
 const questions = [
     {
-        question: "SWhich regions are included in the world map from 1570 but are not shown on the world map from 1467?",
+        question: "Which regions are included in the world map from 1570 but are not shown on the world map from 1467?",
         optionA: "Southern Africa and the Americas",
         optionB: "North Africa and the Middle East",
         correctOption: "optionA"
     },
 
     {
-        question: "What is the correct order of operations",
-        optionA: "P.E.M.D.A.S",
-        optionB: "E.M.P.A.S.D",
+        question: "The Compas Rose has 4 directions: Up, Down, Right, Left",
+        optionA: "False",
+        optionB: "True",
         correctOption: "optionA"
     },
 
     {
-        question: "What is 40% of 50?",
-        optionA: "20",
-        optionB: "25",
+        question: "What is a primary source?",
+        optionA: "A record of an event created late by people not at the event",
+        optionB: "A description of an event from someone who witnessed or lived through that event",
         correctOption: "optionB"
     },
 
     {
-        question: "30 days has ______ ?",
-        optionA: "January",
-        optionB: "December",
+        question: "When did Christopher Columbus arrive in the Americas"
+        optionA: "1467",
+        optionB: "1492",
         correctOption: "optionB"
     },
 
     {
-        question: "How many hours can be found in a day ?",
-        optionA: "30 hours",
-        optionB: "38 hours",
+        question: "Latitude and Longitude are a way of viewing/measuring the map",
+        optionA: "True",
+        optionB: "False",
         correctOption: "optionA"
     },
 
     {
-        question: "Which is the longest river in the world ?",
-        optionA: "River Nile",
-        optionB: "Long River",
+        question: "Drought, Natural disasters, lack of basic needs(water,food, shelter), unemployment,and war are-",
+        optionA: "Push factors",
+        optionB: "Pull factors",
         correctOption: "optionA"
     },
 
     {
-        question: "_____ is the hottest Continent on Earth ?",
-        optionA: "Oceania",
-        optionB: "Antarctica",
+        question: "There are 9 continents",
+        optionA: "True",
+        optionB: "False",
         correctOption: "optionB"
     },
 
     {
-        question: "Which country is the largest in the world ?",
-        optionA: "Russia",
-        optionB: "Canada",
+        question: "Christopher Columbus went exploring to find-",
+        optionA: "Gold, Spices, and land to increase the power of the king and queen",
+        optionB: "To find new plants, animals, and make new friends to learn how to better farm",
         correctOption: "optionA"
     },
 
     {
-        question: "Which of these numbers is an odd number ?",
-        optionA: "Ten",
-        optionB: "Twelve",
-        correctOption: "optionA"
-    },
-
-    {
-        question: "You Can't see me is a popular saying by",
-        optionA: "Eminem",
-        optionB: "Bill Gates",
-        correctOption: "optionA"
-    },
-
-    {
-        question: "Where is the world tallest building located ?",
-        optionA: "Africa",
-        optionB: "California",
+        question: "South Asia has many different cultures and religions, including Buddhism, Hinduism, and Jainism.",
+        optionA: "False",
+        optionB: "True",
         correctOption: "optionB"
+    },
+
+    {
+        question: "What is a secondary source?",
+        optionA: "A description of an event from someone who witnessed or lived through that event",
+        optionB: "A record of an event created late by people not at the event",
+        correctOption: "optionB"
+    },
+
+    {
+        question: "A map has the elements of a-",
+        optionA: "Title, key, subtitle, and compass rose",
+        optionB: "Title, axis, compass, and population",
+        correctOption: "optionA"
     },
 
     {
