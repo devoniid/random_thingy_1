@@ -21,7 +21,7 @@ const questions = [
     },
 
     {
-        question: "When did Christopher Columbus arrive in the Americas"
+        question: "When did Christopher Columbus arrive in the Americas?",
         optionA: "1467",
         optionB: "1492",
         correctOption: "optionB"

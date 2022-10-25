@@ -22,7 +22,7 @@ const questions = [
 
     {
         question: "Which of the following is a list of integer numbers?",
-        optionA: "[4.44, 2, -1.01, 2, 6, 74, 3.14159]"
+        optionA: "[4.44, 2, -1.01, 2, 6, 74, 3.14159]",
         optionB: "[-43, 4, 6, -42, -24, 667]",
         correctOption: "optionB"
     },
@@ -30,7 +30,7 @@ const questions = [
     {
         question: "Which is a correct ordered pair?",
         optionA: "(x,y)",
-        optionB: "(f,u)",
+        optionB: "(a,b)",
         correctOption: "optionA"
     },
 
@@ -49,73 +49,73 @@ const questions = [
     },
 
     {
-        question: "Which country is the largest in the world ?",
-        optionA: "Russia",
-        optionB: "Canada",
+        question: "What is the rounded version of 3.14159?",
+        optionA: "3",
+        optionB: "4",
         correctOption: "optionA"
     },
 
     {
         question: "Which of these numbers is an odd number ?",
-        optionA: "Ten",
-        optionB: "Twelve",
-        correctOption: "optionA"
-    },
-
-    {
-        question: "You Can't see me is a popular saying by",
-        optionA: "Eminem",
-        optionB: "Bill Gates",
-        correctOption: "optionA"
-    },
-
-    {
-        question: "Where is the world tallest building located ?",
-        optionA: "Africa",
-        optionB: "California",
+        optionA: "20101290908",
+        optionB: "20101290907",
         correctOption: "optionB"
     },
 
     {
-        question: "The longest river in the United Kingdom is ?",
-        optionA: "River Severn",
-        optionB: "River Mersey",
+        question: "Greater than or equal to symbols are graphed as...",
+        optionA: "Solid line with a closed circle",
+        optionB: "Dotted line with an open circle",
+        correctOption: "optionA"
+    },
+
+    {
+        question: "What is the best way to classify the number -29.9?",
+        optionA: "Integer",
+        optionB: "Rational Number",
+        correctOption: "optionB"
+    },
+
+    {
+        question: "What is the unit rate of a recipe with a ratio of 10 parts flour to 8 parts water?",
+        optionA: "5:4",
+        optionB: "4:5",
         correctOption: "optionA"
     },
 
 
     {
-        question: "How many permanent teeth does a dog have ?",
+        question: "What is 6*7?",
         optionA: "38",
         optionB: "42",
         correctOption: "optionB"
     },
 
     {
-        question: "Which national team won the football World cup in 2018 ?",
-        optionA: "England",
-        optionB: "Brazil",
+        question: "If a school has $20,000 budget for a year's worth of food and field trips, and they spent $10,587.55 on food, how much of the budget is left for field trips?",
+        optionA: "$9,412.45",
+        optionB: "9,421.45",
         correctOption: "optionA"
     },
 
     {
-        question: "Which US state was Donald Trump Born ?",
-        optionA: "New York",
-        optionB: "California",
+        question: "Whats heavier?",
+        optionA: "2001 lbs",
+        optionB: "1 ton",
         correctOption: "optionA"
     },
 
     {
-        question: "How man states does Nigeria have ?",
-        optionA: "24",
+        question: "Which is an even number?",
+        optionA: "29",
         optionB: "30",
         correctOption: "optionB"
     },
 
     {
-        question: "____ is the capital of Nigeria ?",
-        optionA: "Abuja",
-        optionB: "Lagos",
+        question: "Which is a prime number?",
+        optionA: "37",
+        optionB: "40",
         correctOption: "optionA"
     },
 
