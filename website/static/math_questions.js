@@ -22,7 +22,7 @@ const questions = [
 
     {
         question: "Which of the following is a list of integer numbers?",
-        optionA: "[4.44, 2, -1.01, 2, 6, 74, 3.14159]"
+        optionA: "[4.44, 2, -1.01, 2, 6, 74, 3.14159]",
         optionB: "[-43, 4, 6, -42, -24, 667]",
         correctOption: "optionB"
     },
@@ -30,7 +30,7 @@ const questions = [
     {
         question: "Which is a correct ordered pair?",
         optionA: "(x,y)",
-        optionB: "(f,u)",
+        optionB: "(a,b)",
         correctOption: "optionA"
     },
 
