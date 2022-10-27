@@ -148,7 +148,7 @@ const questions = [
     },
 
     {
-        question: "Which Planet is the hottest ?",
+        question: "If ",
         optionA: "Jupiter",
         optionB: "Mercury",
         correctOption: "optionB"

@@ -148,28 +148,28 @@ const questions = [
     },
 
     {
-        question: "When an earthquake happens its because...",
+        question: "When an earthquake happens it's because...",
         optionA: "The earth is spinning too fast on its axis",
-        optionB: "The earth's tectonic plates are moving against each-other",
+        optionB: "The earth's tectonic plates are rubbing against each other",
         correctOption: "optionB"
     },
 
     {
-        question: "Mountains are formed when two or more tectonic plates collide and push up against each-other",
+        question: "Mountains are formed when two or more tectonic plates collide and push up against each other",
         optionA: "False",
         optionB: "True",
         correctOption: "optionB"
     },
 
     {
-        question: "divergent plates mean when the tectonic plates",
+        question: "Divergent plates mean when the tectonic plates...",
         optionA: "Move together and side to side",
-        optionB: "Move apart from eachother",
+        optionB: "Move apart from each other",
         correctOption: "optionB"
     },
 
     {
-        question: "rolling a marble is an example of....",
+        question: "Rolling a marble is an example of....",
         optionA: "kinetic energy",
         optionB: "potential energy",
         correctOption: "optionA"
