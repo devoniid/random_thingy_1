@@ -21,7 +21,7 @@ const questions = [
     },
 
     {
-        question: "When did Christopher Columbus arrive in the Americas"
+        question: "When did Christopher Columbus arrive in the Americas",
         optionA: "1467",
         optionB: "1492",
         correctOption: "optionB"
@@ -77,101 +77,101 @@ const questions = [
     },
 
     {
-        question: "The longest river in the United Kingdom is ?",
-        optionA: "River Severn",
-        optionB: "River Mersey",
+        question: "A map that shows lines that refer to the surface features of land is a...",
+        optionA: "Topographic map",
+        optionB: "World map",
         correctOption: "optionA"
     },
 
 
     {
-        question: "How many permanent teeth does a dog have ?",
-        optionA: "38",
-        optionB: "42",
+        question: "One of the 7 landmasses above water on the Earth is ",
+        optionA: "Country",
+        optionB: "Continent",
         correctOption: "optionB"
     },
 
     {
-        question: "Which national team won the football World cup in 2018 ?",
-        optionA: "England",
-        optionB: "Brazil",
+        question: "The process of cutting and clearing away trees from a forest is known as",
+        optionA: "Deforestation",
+        optionB: "Desertification",
         correctOption: "optionA"
     },
 
     {
-        question: "Which US state was Donald Trump Born ?",
-        optionA: "New York",
-        optionB: "California",
+        question: "Which continent includes the United States?",
+        optionA: "North America",
+        optionB: "South America",
         correctOption: "optionA"
     },
 
     {
-        question: "How man states does Nigeria have ?",
-        optionA: "24",
-        optionB: "30",
+        question: "People can effect the environment in which they live. What is an correct example of an negative effect we might have?",
+        optionA: "Planting flowers and feeding wildlife",
+        optionB: "Cutting down trees and capturing wildlife",
         correctOption: "optionB"
     },
 
     {
-        question: "____ is the capital of Nigeria ?",
-        optionA: "Abuja",
-        optionB: "Lagos",
+        question: "Australia is a continent, and also a country",
+        optionA: "True",
+        optionB: "False",
         correctOption: "optionA"
     },
 
     {
-        question: "Los Angeles is also known as ?",
-        optionA: "Angels City",
-        optionB: "Shining city",
+        question: "Are lines on a map that run in the east-west direction lines of latitude or longitude?",
+        optionA: "Latitude",
+        optionB: "Longitude ",
         correctOption: "optionA"
     },
 
     {
-        question: "What is the capital of Germany ?",
-        optionA: "Georgia",
-        optionB: "Missouri",
-        correctOption: "optionB"
-    },
-
-    {
-        question: "How many sides does an hexagon have ?",
-        optionA: "Six",
-        optionB: "Seven",
+        question: "What is the top layer of a rainforest called?",
+        optionA: "Emergent layer",
+        optionB: "Apolline layer",
         correctOption: "optionA"
     },
 
     {
-        question: "How many planets are currently in the solar system ?",
-        optionA: "Eleven",
-        optionB: "Seven",
+        question: "What is the name for a territory under the complete control of a distant country?",
+        optionA: "Colony",
+        optionB: "City",
         correctOption: "optionA"
     },
 
     {
-        question: "Which Planet is the hottest ?",
-        optionA: "Jupiter",
-        optionB: "Mercury",
+        question: "Maps often have a ______ to show the orientation of the 4 directions",
+        optionA: "Astrolabe",
+        optionB: "Compass rose",
         correctOption: "optionB"
     },
 
     {
-        question: "where is the smallest bone in human body located?",
-        optionA: "Toes",
-        optionB: "Ears",
+        question: "What problem isn't caused by urbanization?",
+        optionA: "Economic instability",
+        optionB: "Deforestation",
+        correctOption: "optionA"
+    },
+
+    {
+        question: "What are the 7 continents?",
+        optionA: "Australia, america, mexico, russia, england, canada, china",
+        optionB: "Australia, North America, South America, Antarctica, Asia, Africa, Europe",
         correctOption: "optionB"
     },
 
     {
-        question: "How many hearts does an Octopus have ?",
-        optionA: "One",
-        optionB: "Two",
+        question: "Do mountains affect the way people colonize?",
+        optionA: "No",
+        optionB: "Yes",
         correctOption: "optionB"
     },
 
     {
-        question: "How many teeth does an adult human have ?",
-        optionA: "28",
-        optionB: "30",
+        question: "What kind of hats did pilgrims wear?",
+        optionA: "Black bucket hats",
+        optionB: "Baseball caps",
         correctOption: "optionA"
     }
 
