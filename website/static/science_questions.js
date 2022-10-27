@@ -1,177 +1,177 @@
 const questions = [
     {
-        question: "Square root of 49",
-        optionA: "7",
-        optionB: "8",
+        question: "Something that takes up space and has mass",
+        optionA: "matter",
+        optionB: "density",
         correctOption: "optionA"
     },
 
     {
-        question: "What is the correct order of operations",
-        optionA: "P.E.M.D.A.S",
-        optionB: "E.M.P.A.S.D",
+        question: "A state of matter that has a definite volume and shape.",
+        optionA: "solid",
+        optionB: "liquid",
         correctOption: "optionA"
     },
 
     {
-        question: "What is 40% of 50?",
-        optionA: "20",
-        optionB: "25",
+        question: "When a solid turns into a liquid its called...",
+        optionA: "precipitation",
+        optionB: "melting",
         correctOption: "optionB"
     },
 
     {
-        question: "30 days has ______ ?",
-        optionA: "January",
-        optionB: "December",
+        question: "The things that make up of all matter are called...?",
+        optionA: "particles",
+        optionB: "Atoms",
         correctOption: "optionB"
     },
 
     {
-        question: "How many hours can be found in a day ?",
-        optionA: "30 hours",
-        optionB: "38 hours",
+        question: "Which state of matter's atoms are closer together and compacted?",
+        optionA: "solids",
+        optionB: "liquids",
         correctOption: "optionA"
     },
 
     {
-        question: "Which is the longest river in the world ?",
-        optionA: "River Nile",
-        optionB: "Long River",
+        question: "What are the four major states of matter?",
+        optionA: "solid, liquid, gas, plasma",
+        optionB: "solid, volume, mass, gas",
         correctOption: "optionA"
     },
 
     {
-        question: "_____ is the hottest Continent on Earth ?",
-        optionA: "Oceania",
-        optionB: "Antarctica",
+        question: "Crushing a can and liquid pouring out is an example of a chemical change.,
+        optionA: "True",
+        optionB: "False",
         correctOption: "optionB"
     },
 
     {
-        question: "Which country is the largest in the world ?",
-        optionA: "Russia",
-        optionB: "Canada",
+        question: "The energy of matter in motion is called",
+        optionA: "Kinetic",
+        optionB: "Thermal",
         correctOption: "optionA"
     },
 
     {
-        question: "Which of these numbers is an odd number ?",
-        optionA: "Ten",
-        optionB: "Twelve",
+        question: "The process of a gas turning into a liquid is called condensation",
+        optionA: "True",
+        optionB: "False",
         correctOption: "optionA"
     },
 
     {
-        question: "You Can't see me is a popular saying by",
-        optionA: "Eminem",
-        optionB: "Bill Gates",
+        question: "A salad is an example of",
+        optionA: "A Mixture",
+        optionB: "A Compound",
         correctOption: "optionA"
     },
 
     {
-        question: "Where is the world tallest building located ?",
-        optionA: "Africa",
-        optionB: "California",
+        question: "In which state are the particles LEAST able to move?",
+        optionA: "Plasma
+        optionB: "solid",
         correctOption: "optionB"
     },
 
     {
-        question: "The longest river in the United Kingdom is ?",
-        optionA: "River Severn",
-        optionB: "River Mersey",
+        question: "If a liquid is heated a _____ Is produced through evaporation",
+        optionA: "Gas",
+        optionB: "Solid",
         correctOption: "optionA"
     },
 
 
     {
-        question: "How many permanent teeth does a dog have ?",
-        optionA: "38",
-        optionB: "42",
+        question: "Mass is a property of matter",
+        optionA: "False",
+        optionB: "True",
         correctOption: "optionB"
     },
 
     {
-        question: "Which national team won the football World cup in 2018 ?",
-        optionA: "England",
-        optionB: "Brazil",
+        question: "What state of matter's particles are able to move around with lots of space",
+        optionA: "gas",
+        optionB: "solid",
         correctOption: "optionA"
     },
 
     {
-        question: "Which US state was Donald Trump Born ?",
-        optionA: "New York",
-        optionB: "California",
+        question: "Water can be a solid, liquid and a gas",
+        optionA: "True",
+        optionB: "False",
         correctOption: "optionA"
     },
 
     {
-        question: "How man states does Nigeria have ?",
-        optionA: "24",
-        optionB: "30",
+        question: "The amount of space an object takes up is its",
+        optionA: "density",
+        optionB: "volume",
         correctOption: "optionB"
     },
 
     {
-        question: "____ is the capital of Nigeria ?",
-        optionA: "Abuja",
-        optionB: "Lagos",
+        question: "When water turns to a gas, its called evaporation",
+        optionA: "True",
+        optionB: "False",
         correctOption: "optionA"
     },
 
     {
-        question: "Los Angeles is also known as ?",
-        optionA: "Angels City",
-        optionB: "Shining city",
+        question: "The earths first and thinnest layer is called..",
+        optionA: "Crust",
+        optionB: "Mantle",
         correctOption: "optionA"
     },
 
     {
-        question: "What is the capital of Germany ?",
-        optionA: "Georgia",
-        optionB: "Missouri",
+        question: "The earths outer core is a liquid",
+        optionA: "False",
+        optionB: "True",
         correctOption: "optionB"
     },
 
     {
-        question: "How many sides does an hexagon have ?",
-        optionA: "Six",
-        optionB: "Seven",
+        question: "The core contains: Iron, Nickel and Sulfur",
+        optionA: "True",
+        optionB: "False",
         correctOption: "optionA"
     },
 
     {
-        question: "How many planets are currently in the solar system ?",
-        optionA: "Eleven",
-        optionB: "Seven",
+        question: "The earth is made up of layers",
+        optionA: "True",
+        optionB: "False",
         correctOption: "optionA"
     },
 
     {
-        question: "Which Planet is the hottest ?",
-        optionA: "Jupiter",
-        optionB: "Mercury",
+        question: "When an earthquake happens its because...",
+        optionA: "The earth is spinning too fast on its axis",
+        optionB: "The earth's tectonic plates are moving against each-other",
         correctOption: "optionB"
     },
 
     {
-        question: "where is the smallest bone in human body located?",
-        optionA: "Toes",
-        optionB: "Ears",
+        question: "Mountains are formed when two or more tectonic plates collide and push up against each-other",
+        optionA: "False",
+        optionB: "True",
         correctOption: "optionB"
     },
 
     {
-        question: "How many hearts does an Octopus have ?",
-        optionA: "One",
-        optionB: "Two",
+        question: "divergent plates mean when the tectonic plates",
+        optionA: "Move together and side to side",
+        optionB: "Move apart from eachother",
         correctOption: "optionB"
     },
 
     {
-        question: "How many teeth does an adult human have ?",
-        optionA: "28",
-        optionB: "30",
+        question: "rolling a marble is an example of....",
+        optionA: "kinetic energy",
+        optionB: "potential energy",
         correctOption: "optionA"
     }
 

@@ -1,36 +1,36 @@
 const questions = [
     {
-        question: "Square root of 49",
-        optionA: "7",
-        optionB: "8",
+        question: "Choose the correct form of this sentence: apples grow on trees. billy like to Pick them.",
+        optionA: "Apples grow on trees, Billy likes to pick them.",
+        optionB: "Apples grow on trees, billy likes to Pick them",
         correctOption: "optionA"
     },
 
     {
-        question: "What is the correct order of operations",
-        optionA: "P.E.M.D.A.S",
-        optionB: "E.M.P.A.S.D",
+        question: "A summary is a paraphrased version of a text, the idea in short",
+        optionA: "True",
+        optionB: "False",
         correctOption: "optionA"
     },
 
     {
-        question: "What is 40% of 50?",
-        optionA: "20",
-        optionB: "25",
+        question: "A Conflict of a story is what?",
+        optionA: "The place that the story takes place",
+        optionB: "The problem of the story",
         correctOption: "optionB"
     },
 
     {
-        question: "30 days has ______ ?",
-        optionA: "January",
-        optionB: "December",
+        question: "What is the theme?",
+        optionA: "The problem of the story",
+        optionB: "The idea the story is trying to convey(central idea)",
         correctOption: "optionB"
     },
 
     {
-        question: "How many hours can be found in a day ?",
-        optionA: "30 hours",
-        optionB: "38 hours",
+        question: "Floods can cause tremendous damage. They can ruin houses, roads and buildings. Floods can take down trees and cause mudslides. It often leaves mud, sand and debris behind. It can take months to clean up after a flood. What is the main idea?",
+        optionA: "Floods can cause a lot of damage",
+        optionB: "Floods cause mudslides",
         correctOption: "optionA"
     },
 
