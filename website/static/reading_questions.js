@@ -43,135 +43,135 @@ const questions = [
 
     {
         question: "Historical writing?",
-        optionA: "",
+        optionA: "tells a story",
         optionB: "Gives facts and explanations about historic events",
         correctOption: "optionB"
     },
 
     {
-        question: "Which country is the largest in the world ?",
-        optionA: "Russia",
-        optionB: "Canada",
+        question: "Persuasive writing is?",
+        optionA: "Persuades readers to adopt a point of view or take an action.",
+        optionB: "Gives information about a topic to the reader",
         correctOption: "optionA"
     },
 
     {
-        question: "Which of these numbers is an odd number ?",
-        optionA: "Ten",
-        optionB: "Twelve",
+        question: "What is the setting of a story?",
+        optionA: "The place/places and time where the story takes place",
+        optionB: "The problem or conflict of the story",
         correctOption: "optionA"
     },
 
     {
-        question: "You Can't see me is a popular saying by",
-        optionA: "Eminem",
-        optionB: "Bill Gates",
+        question: "The Antagonist of a story is the bad guy.",
+        optionA: "True",
+        optionB: "False",
         correctOption: "optionA"
     },
 
     {
-        question: "Where is the world tallest building located ?",
-        optionA: "Africa",
-        optionB: "California",
+        question: "A simile is what?",
+        optionA: "A joke told to the reader to convince them of something",
+        optionB: "A comparison using the words like and as",
         correctOption: "optionB"
     },
 
     {
-        question: "The longest river in the United Kingdom is ?",
-        optionA: "River Severn",
-        optionB: "River Mersey",
+        question: "Who is the narrator?",
+        optionA: "The person who tells the story",
+        optionB: "The person who writes the story",
         correctOption: "optionA"
     },
 
 
     {
-        question: "How many permanent teeth does a dog have ?",
-        optionA: "38",
-        optionB: "42",
+        question: "A flashback is the literary device that is used when the author wants to remind the reader of a prior event.",
+        optionA: "False",
+        optionB: "True",
         correctOption: "optionB"
     },
 
     {
-        question: "Which national team won the football World cup in 2018 ?",
-        optionA: "England",
-        optionB: "Brazil",
+        question: "What is the literary element that gives a hint that something is going to happen?",
+        optionA: "Foreshadow",
+        optionB: "Symbolism",
         correctOption: "optionA"
     },
 
     {
-        question: "Which US state was Donald Trump Born ?",
-        optionA: "New York",
-        optionB: "California",
+        question: "When the reader makes an _______ about something, they are predicting what will happen",
+        optionA: "Inference",
+        optionB: "Denotation",
         correctOption: "optionA"
     },
 
     {
-        question: "How man states does Nigeria have ?",
-        optionA: "24",
-        optionB: "30",
+        question: "A first-person view includes words like, me, I and we",
+        optionA: "True",
+        optionB: "False",
+        correctOption: "optionA"
+    },
+
+    {
+        question: "What is the order of events in a story? ",
+        optionA: "Categorization",
+        optionB: "Sequence",
         correctOption: "optionB"
     },
 
     {
-        question: "____ is the capital of Nigeria ?",
-        optionA: "Abuja",
-        optionB: "Lagos",
+        question: "A book written about someone else's life is called a what?",
+        optionA: "Biography",
+        optionB: "Personal Narrative",
         correctOption: "optionA"
     },
 
     {
-        question: "Los Angeles is also known as ?",
-        optionA: "Angels City",
-        optionB: "Shining city",
+        question: "Usually found at the end of a passage or the back of the book to help the reader understand the meaning of important words.",
+        optionA: "Graphic",
+        optionB: "Glossary",
+        correctOption: "optionB"
+    },
+
+    {
+        question: "The words above or under a picture in a story",
+        optionA: "Caption",
+        optionB: "Sub-heading",
         correctOption: "optionA"
     },
 
     {
-        question: "What is the capital of Germany ?",
-        optionA: "Georgia",
-        optionB: "Missouri",
-        correctOption: "optionB"
-    },
-
-    {
-        question: "How many sides does an hexagon have ?",
-        optionA: "Six",
-        optionB: "Seven",
+        question: "Something drawn by author and put into the story",
+        optionA: "Illustration",
+        optionB: "Title",
         correctOption: "optionA"
     },
 
     {
-        question: "How many planets are currently in the solar system ?",
-        optionA: "Eleven",
-        optionB: "Seven",
+        question: "What should a sentence have?",
+        optionA: "Capital letter, subject, verb, complete sense, end mark",
+        optionB: "Capital letter, subject, end mark",
         correctOption: "optionA"
     },
 
     {
-        question: "Which Planet is the hottest ?",
-        optionA: "Jupiter",
-        optionB: "Mercury",
+        question: "The main idea of a story is called a what?",
+        optionA: "Main idea",
+        optionB: "Rhyme",
+        correctOption: "optionA"
+    },
+
+    {
+        question: "Who is the protagonist?",
+        optionA: "The narrator",
+        optionB: "The good guy",
         correctOption: "optionB"
     },
 
     {
-        question: "where is the smallest bone in human body located?",
-        optionA: "Toes",
-        optionB: "Ears",
-        correctOption: "optionB"
-    },
-
-    {
-        question: "How many hearts does an Octopus have ?",
-        optionA: "One",
-        optionB: "Two",
-        correctOption: "optionB"
-    },
-
-    {
-        question: "How many teeth does an adult human have ?",
-        optionA: "28",
-        optionB: "30",
+        question: "What is the dictionary or literal meaning of a word? ",
+        optionA: "Denotation",
+        optionB: "Connotation",
         correctOption: "optionA"
     }
 
