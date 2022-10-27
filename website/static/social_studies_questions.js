@@ -122,7 +122,7 @@ const questions = [
     {
         question: "Are lines on a map that run in the east-west direction lines of latitude or longitude?",
         optionA: "Latitude",
-        optionB: "Longitude",
+        optionB: "Longitude ",
         correctOption: "optionA"
     },
 
