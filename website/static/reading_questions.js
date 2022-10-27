@@ -35,16 +35,16 @@ const questions = [
     },
 
     {
-        question: "Which is the longest river in the world ?",
-        optionA: "River Nile",
-        optionB: "Long River",
+        question: "Idioms are a example of figurative language",
+        optionA: "True",
+        optionB: "False",
         correctOption: "optionA"
     },
 
     {
-        question: "_____ is the hottest Continent on Earth ?",
-        optionA: "Oceania",
-        optionB: "Antarctica",
+        question: "Historical writing?",
+        optionA: "",
+        optionB: "Gives facts and explanations about historic events",
         correctOption: "optionB"
     },
 
