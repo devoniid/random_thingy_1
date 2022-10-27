@@ -15,36 +15,36 @@ const questions = [
 
     {
         question: "What is 40% of 50?",
-        optionA: "20",
-        optionB: "25",
+        optionA: "25",
+        optionB: "20",
         correctOption: "optionB"
     },
 
     {
-        question: "30 days has ______ ?",
-        optionA: "January",
-        optionB: "December",
+        question: "Which of the following is a list of integer numbers?",
+        optionA: "[4.44, 2, -1.01, 2, 6, 74, 3.14159]",
+        optionB: "[-43, 4, 6, -42, -24, 667]",
         correctOption: "optionB"
     },
 
     {
-        question: "How many hours can be found in a day ?",
-        optionA: "30 hours",
-        optionB: "38 hours",
+        question: "Which is a correct ordered pair?",
+        optionA: "(x,y)",
+        optionB: "(a,b)",
         correctOption: "optionA"
     },
 
     {
-        question: "Which is the longest river in the world ?",
-        optionA: "River Nile",
-        optionB: "Long River",
-        correctOption: "optionA"
+        question: "How many meters in a kilometer?",
+        optionA: "100",
+        optionB: "1000",
+        correctOption: "optionB"
     },
 
     {
-        question: "_____ is the hottest Continent on Earth ?",
-        optionA: "Oceania",
-        optionB: "Antarctica",
+        question: "How many milliliters to liters?",
+        optionA: "100",
+        optionB: "1000",
         correctOption: "optionB"
     },
 

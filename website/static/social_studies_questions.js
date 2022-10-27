@@ -1,177 +1,177 @@
 const questions = [
     {
-        question: "SWhich regions are included in the world map from 1570 but are not shown on the world map from 1467?",
+        question: "Which regions are included in the world map from 1570 but are not shown on the world map from 1467?",
         optionA: "Southern Africa and the Americas",
         optionB: "North Africa and the Middle East",
         correctOption: "optionA"
     },
 
     {
-        question: "What is the correct order of operations",
-        optionA: "P.E.M.D.A.S",
-        optionB: "E.M.P.A.S.D",
+        question: "The Compas Rose has 4 directions: Up, Down, Right, Left",
+        optionA: "False",
+        optionB: "True",
         correctOption: "optionA"
     },
 
     {
-        question: "What is 40% of 50?",
-        optionA: "20",
-        optionB: "25",
+        question: "What is a primary source?",
+        optionA: "A record of an event created late by people not at the event",
+        optionB: "A description of an event from someone who witnessed or lived through that event",
         correctOption: "optionB"
     },
 
     {
-        question: "30 days has ______ ?",
-        optionA: "January",
-        optionB: "December",
+        question: "When did Christopher Columbus arrive in the Americas",
+        optionA: "1467",
+        optionB: "1492",
         correctOption: "optionB"
     },
 
     {
-        question: "How many hours can be found in a day ?",
-        optionA: "30 hours",
-        optionB: "38 hours",
+        question: "Latitude and Longitude are a way of viewing/measuring the map",
+        optionA: "True",
+        optionB: "False",
         correctOption: "optionA"
     },
 
     {
-        question: "Which is the longest river in the world ?",
-        optionA: "River Nile",
-        optionB: "Long River",
+        question: "Drought, Natural disasters, lack of basic needs(water,food, shelter), unemployment,and war are-",
+        optionA: "Push factors",
+        optionB: "Pull factors",
         correctOption: "optionA"
     },
 
     {
-        question: "_____ is the hottest Continent on Earth ?",
-        optionA: "Oceania",
-        optionB: "Antarctica",
+        question: "There are 9 continents",
+        optionA: "True",
+        optionB: "False",
         correctOption: "optionB"
     },
 
     {
-        question: "Which country is the largest in the world ?",
-        optionA: "Russia",
-        optionB: "Canada",
+        question: "Christopher Columbus went exploring to find-",
+        optionA: "Gold, Spices, and land to increase the power of the king and queen",
+        optionB: "To find new plants, animals, and make new friends to learn how to better farm",
         correctOption: "optionA"
     },
 
     {
-        question: "Which of these numbers is an odd number ?",
-        optionA: "Ten",
-        optionB: "Twelve",
-        correctOption: "optionA"
-    },
-
-    {
-        question: "You Can't see me is a popular saying by",
-        optionA: "Eminem",
-        optionB: "Bill Gates",
-        correctOption: "optionA"
-    },
-
-    {
-        question: "Where is the world tallest building located ?",
-        optionA: "Africa",
-        optionB: "California",
+        question: "South Asia has many different cultures and religions, including Buddhism, Hinduism, and Jainism.",
+        optionA: "False",
+        optionB: "True",
         correctOption: "optionB"
     },
 
     {
-        question: "The longest river in the United Kingdom is ?",
-        optionA: "River Severn",
-        optionB: "River Mersey",
-        correctOption: "optionA"
-    },
-
-
-    {
-        question: "How many permanent teeth does a dog have ?",
-        optionA: "38",
-        optionB: "42",
+        question: "What is a secondary source?",
+        optionA: "A description of an event from someone who witnessed or lived through that event",
+        optionB: "A record of an event created late by people not at the event",
         correctOption: "optionB"
     },
 
     {
-        question: "Which national team won the football World cup in 2018 ?",
-        optionA: "England",
-        optionB: "Brazil",
+        question: "A map has the elements of a-",
+        optionA: "Title, key, subtitle, and compass rose",
+        optionB: "Title, axis, compass, and population",
         correctOption: "optionA"
     },
 
     {
-        question: "Which US state was Donald Trump Born ?",
-        optionA: "New York",
-        optionB: "California",
+        question: "A map that shows lines that refer to the surface features of land is a...",
+        optionA: "Topographic map",
+        optionB: "World map",
         correctOption: "optionA"
     },
 
+
     {
-        question: "How man states does Nigeria have ?",
-        optionA: "24",
-        optionB: "30",
+        question: "One of the 7 landmasses above water on the Earth is ",
+        optionA: "Country",
+        optionB: "Continent",
         correctOption: "optionB"
     },
 
     {
-        question: "____ is the capital of Nigeria ?",
-        optionA: "Abuja",
-        optionB: "Lagos",
+        question: "The process of cutting and clearing away trees from a forest is known as",
+        optionA: "Deforestation",
+        optionB: "Desertification",
         correctOption: "optionA"
     },
 
     {
-        question: "Los Angeles is also known as ?",
-        optionA: "Angels City",
-        optionB: "Shining city",
+        question: "Which continent includes the United States?",
+        optionA: "North America",
+        optionB: "South America",
         correctOption: "optionA"
     },
 
     {
-        question: "What is the capital of Germany ?",
-        optionA: "Georgia",
-        optionB: "Missouri",
+        question: "People can effect the environment in which they live. What is an correct example of an negative effect we might have?",
+        optionA: "Planting flowers and feeding wildlife",
+        optionB: "Cutting down trees and capturing wildlife",
         correctOption: "optionB"
     },
 
     {
-        question: "How many sides does an hexagon have ?",
-        optionA: "Six",
-        optionB: "Seven",
+        question: "Australia is a continent, and also a country",
+        optionA: "True",
+        optionB: "False",
         correctOption: "optionA"
     },
 
     {
-        question: "How many planets are currently in the solar system ?",
-        optionA: "Eleven",
-        optionB: "Seven",
+        question: "Are lines on a map that run in the east-west direction lines of latitude or longitude?",
+        optionA: "Latitude",
+        optionB: "Longitude",
         correctOption: "optionA"
     },
 
     {
-        question: "Which Planet is the hottest ?",
-        optionA: "Jupiter",
-        optionB: "Mercury",
+        question: "What is the top layer of a rainforest called?",
+        optionA: "Emergent layer",
+        optionB: "Apolline layer",
+        correctOption: "optionA"
+    },
+
+    {
+        question: "What is the name for a territory under the complete control of a distant country?",
+        optionA: "Colony",
+        optionB: "City",
+        correctOption: "optionA"
+    },
+
+    {
+        question: "Maps often have a ______ to show the orientation of the 4 directions",
+        optionA: "Astrolabe",
+        optionB: "Compass rose",
         correctOption: "optionB"
     },
 
     {
-        question: "where is the smallest bone in human body located?",
-        optionA: "Toes",
-        optionB: "Ears",
+        question: "What problem isn't caused by urbanization?",
+        optionA: "Economic instability",
+        optionB: "Deforestation",
+        correctOption: "optionA"
+    },
+
+    {
+        question: "What are the 7 continents?",
+        optionA: "Australia, america, mexico, russia, england, canada, china",
+        optionB: "Australia, North America, South America, Antarctica, Asia, Africa, Europe",
         correctOption: "optionB"
     },
 
     {
-        question: "How many hearts does an Octopus have ?",
-        optionA: "One",
-        optionB: "Two",
+        question: "Do mountains affect the way people colonize?",
+        optionA: "No",
+        optionB: "Yes",
         correctOption: "optionB"
     },
 
     {
-        question: "How many teeth does an adult human have ?",
-        optionA: "28",
-        optionB: "30",
+        question: "What kind of hats did pilgrims wear?",
+        optionA: "Black bucket hats",
+        optionB: "Baseball caps",
         correctOption: "optionA"
     }
 
