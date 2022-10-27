@@ -1,43 +1,43 @@
 const questions = [
     {
         question: "Something that takes up space and has mass",
-        optionA: "matter",
-        optionB: "density",
+        optionA: "Matter",
+        optionB: "Density",
         correctOption: "optionA"
     },
 
     {
         question: "A state of matter that has a definite volume and shape.",
-        optionA: "solid",
-        optionB: "liquid",
+        optionA: "Solid",
+        optionB: "Liquid",
         correctOption: "optionA"
     },
 
     {
         question: "When a solid turns into a liquid its called...",
-        optionA: "precipitation",
-        optionB: "melting",
+        optionA: "Precipitation",
+        optionB: "Melting",
         correctOption: "optionB"
     },
 
     {
         question: "The things that make up of all matter are called...?",
-        optionA: "particles",
+        optionA: "Particles",
         optionB: "Atoms",
         correctOption: "optionB"
     },
 
     {
         question: "Which state of matter's atoms are closer together and compacted?",
-        optionA: "solids",
-        optionB: "liquids",
+        optionA: "Solids",
+        optionB: "Liquids",
         correctOption: "optionA"
     },
 
     {
         question: "What are the four major states of matter?",
-        optionA: "solid, liquid, gas, plasma",
-        optionB: "solid, volume, mass, gas",
+        optionA: "Solid, Liquid, Gas, and Plasma",
+        optionB: "Solid, Volume, Mass, and Gas",
         correctOption: "optionA"
     },
 
@@ -72,12 +72,12 @@ const questions = [
     {
         question: "In which state are the particles LEAST able to move?",
         optionA: "Plasma
-        optionB: "solid",
+        optionB: "Solid",
         correctOption: "optionB"
     },
 
     {
-        question: "If a liquid is heated a _____ Is produced through evaporation",
+        question: "When some liquids are heated to high temperatures _____ is produced through evaporation",
         optionA: "Gas",
         optionB: "Solid",
         correctOption: "optionA"
@@ -93,13 +93,13 @@ const questions = [
 
     {
         question: "What state of matter's particles are able to move around with lots of space",
-        optionA: "gas",
-        optionB: "solid",
+        optionA: "Gas",
+        optionB: "Solid",
         correctOption: "optionA"
     },
 
     {
-        question: "Water can be a solid, liquid and a gas",
+        question: "Water can be a solid, liquid, and a gas.",
         optionA: "True",
         optionB: "False",
         correctOption: "optionA"
@@ -107,8 +107,8 @@ const questions = [
 
     {
         question: "The amount of space an object takes up is its",
-        optionA: "density",
-        optionB: "volume",
+        optionA: "Density",
+        optionB: "Volume",
         correctOption: "optionB"
     },
 
@@ -170,8 +170,8 @@ const questions = [
 
     {
         question: "Rolling a marble is an example of....",
-        optionA: "kinetic energy",
-        optionB: "potential energy",
+        optionA: "Kinetic energy",
+        optionB: "Potential energy",
         correctOption: "optionA"
     }
 

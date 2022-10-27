@@ -120,17 +120,17 @@ const questions = [
     },
 
     {
-        question: "Los Angeles is also known as ?",
-        optionA: "Angels City",
-        optionB: "Shining city",
+        question: "What is product of 12 x 14",
+        optionA: "168",
+        optionB: "180",
         correctOption: "optionA"
     },
 
     {
-        question: "What is the capital of Germany ?",
-        optionA: "Georgia",
-        optionB: "Missouri",
-        correctOption: "optionB"
+        question: "What are 3 types of triangles?",
+        optionA: "Obtuse, acute, and right triangles,
+        optionB: "Right, left, and center triangles",
+        correctOption: "optionA"
     },
 
     {
@@ -141,37 +141,37 @@ const questions = [
     },
 
     {
-        question: "How many planets are currently in the solar system ?",
-        optionA: "Eleven",
-        optionB: "Seven",
+        question: "What is the rounded sum of 357, 220, and 500?",
+        optionA: "1,077",
+        optionB: "1,080",
         correctOption: "optionA"
     },
 
     {
-        question: "If ",
-        optionA: "Jupiter",
-        optionB: "Mercury",
+        question: "Which is a composite number?",
+        optionA: "144",
+        optionB: "99",
+        correctOption: "optionA"
+    },
+
+    {
+        question: "What class of shapes have 4 sides and 4 vertices?",
+        optionA: "Quadrilaterals",
+        optionB: "Squares and Rectangles",
+        correctOption: "optionA"
+    },
+
+    {
+        question: "If George buys 4 pies [sliced in fourths] for a party, and each person gets 25% of a pie, how many people attending the party can have pie?",
+        optionA: "32 persons",
+        optionB: "16 people",
         correctOption: "optionB"
     },
 
     {
-        question: "where is the smallest bone in human body located?",
-        optionA: "Toes",
-        optionB: "Ears",
-        correctOption: "optionB"
-    },
-
-    {
-        question: "How many hearts does an Octopus have ?",
-        optionA: "One",
-        optionB: "Two",
-        correctOption: "optionB"
-    },
-
-    {
-        question: "How many teeth does an adult human have ?",
-        optionA: "28",
-        optionB: "30",
+        question: "If someone's driving 1,000 miles at a steady speed of 60mph, how long will it take to get to their destination?",
+        optionA: "16.66666666666667",
+        optionB: "16.66666666666067",
         correctOption: "optionA"
     }
 
