@@ -144,7 +144,7 @@ const questions = [
         question: "What is the rounded sum of 357, [space] 220, and 500?",
         optionA: "1,077",
         optionB: "1,080",
-        correctOption: "optionA"
+        correctOption: "optionB"
     },
 
     {
