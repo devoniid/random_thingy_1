@@ -141,7 +141,7 @@ const questions = [
     },
 
     {
-        question: "What is the rounded sum of 357, 220, and 500?",
+        question: "What is the rounded sum of 357, [space] 220, and 500?",
         optionA: "1,077",
         optionB: "1,080",
         correctOption: "optionA"
@@ -200,6 +200,8 @@ let indexNumber = 0 //will be used in displaying next question
 // function for displaying next question in the array to dom
 //also handles displaying players and quiz information to dom
 function NextQuestion(index) {
+    document.getElementById("option-one-label").style.backgroundColor = "669999"
+    document.getElementById("option-two-label").style.backgroundColor = "669999"
     handleQuestions()
     const currentQuestion = shuffledQuestions[index]
     document.getElementById("question-number").innerHTML = questionNumber
