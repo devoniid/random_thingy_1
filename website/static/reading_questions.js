@@ -35,7 +35,7 @@ const questions = [
     },
 
     {
-        question: "Idioms are a example of figurative language",
+        question: "Idioms are an example of figurative language",
         optionA: "True",
         optionB: "False",
         correctOption: "optionA"
@@ -99,7 +99,7 @@ const questions = [
     },
 
     {
-        question: "When the reader makes an _______ about something, they are predicting what will happen",
+        question: "When the reader makes a(n)_______ about something, they are predicting what will happen",
         optionA: "Inference",
         optionB: "Denotation",
         correctOption: "optionA"
@@ -141,7 +141,7 @@ const questions = [
     },
 
     {
-        question: "Something drawn by author and put into the story",
+        question: "Something drawn by the illustrator and put into the story",
         optionA: "Illustration",
         optionB: "Title",
         correctOption: "optionA"
@@ -149,7 +149,7 @@ const questions = [
 
     {
         question: "What should a sentence have?",
-        optionA: "Capital letter, subject, verb, complete sense, end mark",
+        optionA: "Capital letter, subject, verb, complete thought, end mark",
         optionB: "Capital letter, subject, end mark",
         correctOption: "optionA"
     },
