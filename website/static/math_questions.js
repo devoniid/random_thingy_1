@@ -128,7 +128,7 @@ const questions = [
 
     {
         question: "What are 3 types of triangles?",
-        optionA: "Obtuse, acute, and right triangles,
+        optionA: "Obtuse, acute, and right triangles",
         optionB: "Right, left, and center triangles",
         correctOption: "optionA"
     },

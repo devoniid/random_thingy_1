@@ -42,7 +42,7 @@ const questions = [
     },
 
     {
-        question: "Crushing a can and liquid pouring out is an example of a chemical change.,
+        question: "Crushing a can and liquid pouring out is an example of a chemical change.",
         optionA: "True",
         optionB: "False",
         correctOption: "optionB"
@@ -71,7 +71,7 @@ const questions = [
 
     {
         question: "In which state are the particles LEAST able to move?",
-        optionA: "Plasma
+        optionA: "Plasma",
         optionB: "Solid",
         correctOption: "optionB"
     },
