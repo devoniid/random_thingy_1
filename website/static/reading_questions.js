@@ -42,7 +42,7 @@ const questions = [
     },
 
     {
-        question: "Historical writing?",
+        question: "Historical writing is?",
         optionA: "tells a story",
         optionB: "Gives facts and explanations about historic events",
         correctOption: "optionB"
