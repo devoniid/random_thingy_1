@@ -144,7 +144,7 @@ const questions = [
         question: "What is the rounded sum of 357, [space] 220, and 500?",
         optionA: "1,077",
         optionB: "1,080",
-        correctOption: "optionA"
+        correctOption: "optionB"
     },
 
     {
@@ -170,8 +170,8 @@ const questions = [
 
     {
         question: "If someone's driving 1,000 miles at a steady speed of 60mph, how long will it take to get to their destination?",
-        optionA: "16.66666666666667",
-        optionB: "16.66666666666067",
+        optionA: "16.66-",
+        optionB: "17.00",
         correctOption: "optionA"
     }
 
