@@ -35,9 +35,9 @@ const questions = [
     },
 
     {
-        question: "Idioms are an example of figurative language",
-        optionA: "True",
-        optionB: "False",
+        question: "A penny for your thoughts? If it’s a 1943 copper penny, it could be worth as much as fifty thousand dollars. In 1943, most pennies were made out of steel since copper was needed for World War II, so the 1943 copper penny is ultra-rare. Another rarity is the 1955 double die penny. These pennies were mistakenly double stamped, so they have overlapping dates and letters. If it’s uncirculated, it’d easily fetch $25,000 at an auction. Now that’s a pretty penny. ",
+        optionA: "Rare and valuable pennies",
+        optionB: "Pennies that are shiny",
         correctOption: "optionA"
     },
 
@@ -77,10 +77,10 @@ const questions = [
     },
 
     {
-        question: "Who is the narrator?",
-        optionA: "The person who tells the story",
-        optionB: "The person who writes the story",
-        correctOption: "optionA"
+        question: "Sideways Stories from Wayside School by Louis Sachar. Leslie sat in front of Paul.  She had two long, brown pigtails that reached all the way down to her waist.  Paul saw those pigtails, and a terrible urge came over him.  He wanted to pull a pigtail.  He wanted to wrap his fist around it, feel the hair between his fingers, and just yank.  He thought it would be fun to tie the pigtails together, or better yet, tie them to her chair.  But most of all, he just wanted to pull one ",
+        optionA: "Third-Objective",
+        optionB: "Third-Limited",
+        correctOption: "optionB"
     },
 
 
@@ -141,9 +141,9 @@ const questions = [
     },
 
     {
-        question: "Something drawn by the illustrator and put into the story",
-        optionA: "Illustration",
-        optionB: "Title",
+        question: "Before you put on that Angry Birds costume and exhaust yourself roving from door to door pandering for candy, take a minute to reflect on the tradition in which you are taking part. Halloween is believed to have come from an ancient Celtic festival dating back some 2,000 years. November 1st was the Celtic New Year and marked the end of summer to the Celts, so they celebrated on its eve by wearing costumes made of animal skins and dancing around bon fires. Over the next two millennia, this primitive celebration grew to be candy fueled costume ball that we know today. What is the main idea?",
+        optionA: "The origin of Halloween",
+        optionB: "Animal costumes",
         correctOption: "optionA"
     },
 
