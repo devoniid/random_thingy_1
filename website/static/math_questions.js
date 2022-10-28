@@ -200,8 +200,6 @@ let indexNumber = 0 //will be used in displaying next question
 // function for displaying next question in the array to dom
 //also handles displaying players and quiz information to dom
 function NextQuestion(index) {
-    document.getElementById("option-one-label").style.backgroundColor = "669999"
-    document.getElementById("option-two-label").style.backgroundColor = "669999"
     handleQuestions()
     const currentQuestion = shuffledQuestions[index]
     document.getElementById("question-number").innerHTML = questionNumber
@@ -209,8 +207,6 @@ function NextQuestion(index) {
     document.getElementById("display-question").innerHTML = currentQuestion.question;
     document.getElementById("option-one-label").innerHTML = currentQuestion.optionA;
     document.getElementById("option-two-label").innerHTML = currentQuestion.optionB;
-    document.getElementById("option-three-label").innerHTML = currentQuestion.optionC;
-    document.getElementById("option-four-label").innerHTML = currentQuestion.optionD;
 
 }
 
